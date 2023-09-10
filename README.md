@@ -14,3 +14,6 @@ Install the required libraries:
 ```
 pip install opencv-python imutils scikit-image
 ```
+## Flowchart
+
+![Flowchart](https://github.com/Bhuvaneshbhuvi93/Dhvani/assets/118096816/2c618463-4b58-4d6c-a296-e40fe675a473)
