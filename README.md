@@ -1,6 +1,6 @@
 # Defect Detection using Image Comparison
 
-This Python script detects defects in images by comparing them using Structural Similarity Index (SSIM). It identifies differences between two images and draws bounding boxes around areas with defects.
+By comparing photos with each other using the Structural Similarity Index (SSIM), this Python tool finds flaws in the images. It recognizes changes between two photos and outlines defect-ridden areas with bounding boxes..
 
 ## Prerequisites
 
@@ -19,7 +19,7 @@ pip install opencv-python imutils scikit-image
 ![Flowchart](https://github.com/Bhuvaneshbhuvi93/Dhvani/assets/118096816/2c618463-4b58-4d6c-a296-e40fe675a473)
 
 # Bee Dynamics Simulation
-This Python code simulates the motion of a system in three-dimensional space over time. It models the movement of a "bee" based on a set of differential equations. The resulting trajectories are plotted for analysis.
+This Python program models the three-dimensional motion of a system over time. Based on a set of differential equations, it simulates how a "bee" might move. Plots are made of the obtained trajectories for analysis.
 
 ## Dependencies
 Python 3.x
