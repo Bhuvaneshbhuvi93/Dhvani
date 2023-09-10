@@ -35,7 +35,7 @@ pip install numpy scipy matplotlib
 ## Code Explanation
 **plot.ipynb:** Contains the Python code for simulating and plotting the bee's motion. It defines the differential equations, sets up the time span and initial conditions, and uses solve_ivp from scipy.integrate for numerical integration.
 
-**system(t, variables): **  Defines the system of ordinary differential equations (ODEs) governing the motion of the bee. Modify this function to change the behavior of the system.
+**system(t, variables):**  Defines the system of ordinary differential equations (ODEs) governing the motion of the bee. Modify this function to change the behavior of the system.
 
 **t_span:** Defines the time span for the integration. Adjust the range as needed.
 
