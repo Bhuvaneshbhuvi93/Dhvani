@@ -44,3 +44,8 @@ Defines the time span for the integration. Adjust the range as needed.
 
 **initial_conditions:** 
 Specifies the initial values for x, y, and z at t = 0.
+
+# Object Detection
+
+## Prerequisites
+Matplotlib
