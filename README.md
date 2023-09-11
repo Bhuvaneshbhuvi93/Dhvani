@@ -49,3 +49,11 @@ Specifies the initial values for x, y, and z at t = 0.
 
 ## Prerequisites
 Matplotlib
+Ultralytics
+Numpy
+Torch
+
+## Flowchart
+![ObjectDetection](https://github.com/Bhuvaneshbhuvi93/Dhvani/assets/118096816/e21999cb-cf03-416d-beb8-c6f9e7bcd2f7)
+
+
